@@ -242,7 +242,7 @@ function App() {
                     </div>
                     <div>
                       <p className="font-medium">Email</p>
-                      <p className="text-gray-700">contato@wkengenharia.com.br</p>
+                      <p className="text-gray-700">contato@wkengenharia.com</p>
                     </div>
                   </div>
                   <div className="flex items-start">
